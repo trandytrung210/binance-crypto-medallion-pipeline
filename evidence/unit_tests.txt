@@ -1,0 +1,27 @@
+test_open_and_change_selection (test_dashboard.DashboardSmoke.test_open_and_change_selection) ... 2026-11-01 14:16:23.549 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-11-01 14:16:23.735 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-11-01 14:16:23.735 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-11-01 14:16:23.735 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-11-01 14:16:23.735 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-11-01 14:16:24.081 DEBUG   streamlit.runtime.memory_media_file_storage: Adding media file 7283c5fb96d28b263d1d3cec283ae6cb
+2026-11-01 14:16:24.086 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-11-01 14:16:24.086 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+2026-11-01 14:16:24.089 DEBUG   streamlit.runtime.scriptrunner.script_runner: Beginning script thread
+2026-11-01 14:16:24.090 DEBUG   streamlit.runtime.scriptrunner.script_runner: Running script
+2026-11-01 14:16:24.090 DEBUG   streamlit.runtime.media_file_manager: Disconnecting files for session with ID test session id
+2026-11-01 14:16:24.090 DEBUG   streamlit.runtime.media_file_manager: Sessions still active: dict_keys([])
+2026-11-01 14:16:24.090 DEBUG   streamlit.runtime.media_file_manager: Files: 0; Sessions with files: 0
+2026-11-01 14:16:24.207 DEBUG   streamlit.runtime.memory_media_file_storage: Adding media file 7283c5fb96d28b263d1d3cec283ae6cb
+2026-11-01 14:16:24.208 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned files...
+2026-11-01 14:16:24.208 DEBUG   streamlit.runtime.media_file_manager: Removing orphaned deferred callables...
+ok
+test_checksum_tampering (test_rules.QualityRules.test_checksum_tampering) ... ok
+test_invalid_high (test_rules.QualityRules.test_invalid_high) ... ok
+test_taker_volume (test_rules.QualityRules.test_taker_volume) ... ok
+test_timestamp_boundary (test_rules.QualityRules.test_timestamp_boundary) ... ok
+test_valid (test_rules.QualityRules.test_valid) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.662s
+
+OK

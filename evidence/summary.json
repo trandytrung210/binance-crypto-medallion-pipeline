@@ -1,0 +1,23 @@
+{
+  "publication_id": "20261101T091622Z_291e9d2a",
+  "metrics": [
+    {
+      "symbol": "BTCUSDT",
+      "quote_volume_usdt": 11966605631.494442,
+      "trade_count": 19516844.0,
+      "day_count": 7
+    },
+    {
+      "symbol": "BNBUSDT",
+      "quote_volume_usdt": 1280430579.35446,
+      "trade_count": 4662569.0,
+      "day_count": 7
+    },
+    {
+      "symbol": "ETHUSDT",
+      "quote_volume_usdt": 7486827486.081252,
+      "trade_count": 15170726.0,
+      "day_count": 7
+    }
+  ]
+}

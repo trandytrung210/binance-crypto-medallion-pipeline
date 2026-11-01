@@ -1,0 +1,17 @@
+{
+  "source_run_id": "20261101T090959Z_8cf668e6",
+  "publication_id": "20261101T091622Z_291e9d2a",
+  "silver_rows": 30240,
+  "daily_rows": 21,
+  "hourly_rows": 504,
+  "bronze_files_verified": 34,
+  "checks": {
+    "failure_keeps_current_pointer": true,
+    "offline_replay_preserves_row_count": true,
+    "offline_replay_preserves_gold_values_rounded_9dp": true,
+    "bronze_hashes_unchanged": true,
+    "unit_tests_passed": true,
+    "zip_relocated_offline_replay_passed": true
+  },
+  "extra": {}
+}

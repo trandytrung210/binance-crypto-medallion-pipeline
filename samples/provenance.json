@@ -1,0 +1,10 @@
+{
+  "file": "BTCUSDT_0001.json",
+  "url": "https://data-api.binance.vision/api/v3/klines?symbol=BTCUSDT&interval=1m&startTime=1735689600000&endTime=1736294399999&limit=1000",
+  "status_code": 200,
+  "retrieved_at": "2026-11-01T09:10:06.408717+00:00",
+  "sha256": "dac9139f72a6f7c950887db86dd7244a5a467e775d264727e0925f6f37dbbaa2",
+  "bytes": 168438,
+  "role": "candles",
+  "symbol": "BTCUSDT"
+}

@@ -1,0 +1,12 @@
+{
+  "start": "2025-01-01",
+  "end": "2025-01-08",
+  "symbols": [
+    "BTCUSDT",
+    "ETHUSDT",
+    "BNBUSDT"
+  ],
+  "interval": "1m",
+  "api_base": "https://data-api.binance.vision",
+  "request_pause_seconds": 0.12
+}
